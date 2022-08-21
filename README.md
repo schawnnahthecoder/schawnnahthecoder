@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @schawnnahthecoder
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Python, Computor Science and Data Science
-- 💞️ I’m looking to collaborate on twitter, [hackerrank.com](https://www.hackerrank.com/schawnnarm?hr_r=1) and [sololearn.com](https://www.sololearn.com/profile/20771037)
+- 👋 Hi, I’m hack@coder.
+- 👀 I’m interested in Data science, Chess, AI and ML.
+- 🌱 I’m currently learning Python, ML, AI and Data Science
+- 💞️ I’m looking to collaborate on [twitter.com](https://twitter.com/schawnnahj), [hackerrank.com](https://www.hackerrank.com/schawnnarm?hr_r=1) and [sololearn.com](https://www.sololearn.com/profile/20771037).
 - 📫 How to reach me [twitter.com/](https://twitter.com/schawnnahj)
 
 <!---
